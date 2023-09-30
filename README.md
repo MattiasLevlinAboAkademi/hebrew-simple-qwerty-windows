@@ -89,10 +89,11 @@ These characters are accessible with shift or caps lock.
 
 # Principles
 
-1. No dead keys, allowing for multiple instances of the same letter
-2. No diacritics, as they are not typically used in casual Hebrew writing
-3. Excluding diacritics, each unique sound in Modern Hebrew must be accessible with one key press
-4. For direct or near equivalents between English/Hebrew, each key is connected to the Hebrew letter most similar in sound
+1. No unassigned keys, allowing for multiple instances of the same letter
+2. Hebrew characters should only be placed on keys which are used for Latin alphabet characters in the English layout 
+3. No diacritics, as they are not typically used in casual Hebrew writing
+4. Excluding diacritics, each unique sound in Modern Hebrew must be accessible with one key press
+5. For direct or near equivalents between English/Hebrew, each key is connected to the Hebrew letter most similar in sound
 
 Special cases are mentioned in the `Notes` in the tables above
 
