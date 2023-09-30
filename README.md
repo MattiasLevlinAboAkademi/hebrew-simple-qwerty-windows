@@ -1,6 +1,6 @@
 # hebrew-simple-qwerty-windows
 
-* This is a simplified Hebrew keyboard layout for Microsoft Windows, in terms of keyboard layout based on the American (US) keyboard layout.
+* This is a simplified Hebrew keyboard layout for Microsoft Windows, based on the American (US) keyboard layout.
 * In terms of language, the keyboard is designed for writing Modern Hebrew.
 * The goal is to make it easy read and write Hebrew for a beginner who is used to QWERTY.
 * Created with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
