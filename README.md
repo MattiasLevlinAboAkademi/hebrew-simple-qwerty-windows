@@ -1,8 +1,8 @@
 # hebrew-simple-qwerty-windows
 
-* This is a simplified Hebrew keyboard layout for Microsoft Windows, based on the American (US) keyboard layout.
-* The layout is based on Modern Hebrew.
-* It is based on phonetic and intuitive principles, aiming to make it easy to learn to quickly read and write Hebrew for a beginner.
+* This is a simplified Hebrew keyboard layout for Microsoft Windows, in terms of keyboard layout based on the American (US) keyboard layout.
+* In terms of language, the keyboard is designed for writing Modern Hebrew.
+* The goal is to make it easy read and write Hebrew for a beginner who is used to QWERTY.
 * Created with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 
 # Setup
@@ -57,7 +57,7 @@ setup.exe
 | ג         | [g]        | g        | g       | Same pronounciation as English g (hard g)                 |
 | ה         | [h]        | h        | h       | Same pronounciation as English h                          |
 | י         | [j]        | y        | j       | Similarity in pronounciation                              |
-| כ         | [k] or [χ] | k or ch  | k       | When inital [k], same as English k, otherwise [χ]         |
+| כ         | [k] or [χ] | k or ch  | k       | When inital often [k], same as English k, otherwise [χ]   |
 | ל         | [l]        | l        | l       | Same pronounciation as English l                          |
 
 ## Third row
