@@ -7,19 +7,19 @@
 
 # Setup
 
-* Requirements: Microsoft Windows (tested on Windows 11)
+Requirements: Microsoft Windows (tested on Windows 11)
 
-1. Download the repository
+1. Click the green button labeled "Code"
 
-```bash
-git clone git@github.com:MattiasLevlin/hebrew-simple-qwerty.git
-```
+2. From the dropdown, click on "Download ZIP".
 
-2. Run `setup.exe` to install the keyboard layout
+3. Download and extract the `.zip` file
 
-```bash
-setup.exe
-```
+4. Run `setup.exe` to install the keyboard layout
+
+# Uninstall
+
+1. Run `setup.exe` again and select "Remove"
 
 # Layout
 
