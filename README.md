@@ -5,7 +5,7 @@
 * The goal is to make it easy read and write Hebrew for a beginner who is used to QWERTY.
 * Created with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 
-# Setup
+## Setup
 
 Requirements: Microsoft Windows (tested on Windows 11)
 
@@ -17,7 +17,9 @@ Requirements: Microsoft Windows (tested on Windows 11)
 
 4. Run `setup.exe` to install the keyboard layout
 
-# Uninstall
+If you are familiar with `git` you can also git clone the repository instead of downloading the `.zip` file.
+
+## Uninstall
 
 1. Run `setup.exe` again and select "Remove"
 
