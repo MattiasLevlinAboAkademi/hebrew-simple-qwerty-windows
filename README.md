@@ -1,5 +1,9 @@
 # hebrew-simple-qwerty-windows
 
+![Standard layout](images/standard.png)
+
+![Shift layout](images/shift.png)
+
 * This is a simplified Hebrew keyboard layout for Microsoft Windows, based on the American (US) keyboard layout.
 * The layout is based on Modern Hebrew.
 * It is based on phonetic and intuitive principles, aiming to make it easy to learn to quickly read and write Hebrew for a beginner.
