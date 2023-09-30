@@ -90,7 +90,7 @@ These characters are accessible with shift or caps lock.
 1. No dead keys, allowing for multiple instances of the same letter
 2. No diacritics, as they are not typically used in casual Hebrew writing
 3. Excluding diacritics, each unique sound in Modern Hebrew must be accessible with one key press
-4. For direct equivalents (one Hebrew letter and one English letter with the same sound), each key is connected to the Hebrew letter most similar in sound
+4. For direct or near equivalents between English/Hebrew, each key is connected to the Hebrew letter most similar in sound
 
 Special cases are mentioned in the `Notes` in the tables above
 
