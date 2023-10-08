@@ -92,8 +92,9 @@ These characters are accessible with shift or caps lock.
 1. No unassigned keys, allowing for multiple instances of the same letter
 2. Hebrew characters should only be placed on keys which are used for Latin alphabet characters in the English layout 
 3. No diacritics, as they are not typically used in casual Hebrew writing
-4. Excluding diacritics, each unique sound in Modern Hebrew must be accessible with one key press
-5. For direct or near equivalents between English/Hebrew, each key is connected to the Hebrew letter most similar in sound
+4. No Gerseh signs, typically used only for loan words
+5. Excluding diacritics, each unique sound in Modern Hebrew must be accessible with one key press
+6. For direct or near equivalents between English/Hebrew, each key is connected to the Hebrew letter most similar in sound
 
 Special cases are mentioned in the `Notes` in the tables above
 
